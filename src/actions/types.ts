@@ -1,0 +1,4 @@
+export const SUBMIT_COMMENT = 'SUBMIT_COMMENT';
+export const TYPE_COMMENT = 'TYPE_COMMENT';
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const CHANGE_AUTH = 'CHANGE_AUTH';
